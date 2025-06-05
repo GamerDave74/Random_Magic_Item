@@ -7,9 +7,6 @@ this is from the rules https://en.wikipedia.org/wiki/Encyclopedia_Magica
 
 All tables are CSV if you change anything be sure that there are no gaps or overlaps to the dice rolling. 
 
- Symbol Rules Breakdown
-Each enhancement symbol in an item name triggers a specific behavior:
-
 Symbol	Meaning	Action Taken
 *	Reroll	Reroll on the same source table and combine the result
 #	Enchanted Enhancement	Roll on the EE table and apply the result
